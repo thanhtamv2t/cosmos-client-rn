@@ -1,4 +1,4 @@
-import * as crypto from "crypto";
+import * as crypto from "crypto-browserify";
 import * as nacl from "tweetnacl";
 /**
  * ed25519
